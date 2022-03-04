@@ -11,7 +11,7 @@ export default function Home() {
       <main>
         {/* <img src="/dunkin_style.png" /> */}
         {/* <source src="/intro.mp4" type="video/mp4"/> */}
-        <video autoPlay loop muted width={400}>
+        <video autoPlay loop muted width={1200}>
           <source src="/intro.mp4" type="video/mp4" />
         </video>
       </main>
