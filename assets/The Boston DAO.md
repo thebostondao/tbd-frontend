@@ -36,7 +36,7 @@ b. Innovative, positive, and exceptional
 >i. Do things that are new, positive-sum, and disruptive so that people who learn about us can leverage and improve our framework — this is how we grow. We stand for Boston and Boston stands for trailblazing, pioneering revolutionists. This Manifesto is no exception; it should evolve with the DAO.
 
 c. Open, transparent, and accountable
->i. We believe that the future of governance involves operating publicly and deliberately. A lot of the crypto space is full of scams and bad-faith actors.  We seek to be an model of how a well run community with integrity, values, and accountability can demonstrate the promose of web3 tech to be a force of good in the world, not just another get-rich-quick scheme.
+>i. We believe that the future of governance involves operating publicly, deliberately, and in good faith.  We understand that Massachusetts is a somewhat antagonistic climate towards web3 (see: Senator Warren's comments on crypto). If we want to have influence in Boston we will need to convince the skeptics that there's more to web3 than scams, ponzi schemes, and toxic defi bros. One way to do this is by serving as an example of the best parts of the web3 community.  We will strive to be a model of how a well run community with integrity, values, and accountability can demonstrate the promise of web3 tech to be a force of good in the world.
 
 d. Inclusive and diverse
 >i. The Boston DAO is holistically meritocratic — understanding that every decision is not black and white, but also pushing to innovate and govern in a truly digital world.
