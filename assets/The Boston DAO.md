@@ -39,7 +39,9 @@ c. Open, transparent, and adaptable
 >i. We believe that the future of governance involves operating publicly and deliberately. Rather than assuming an uneducated majority, we seek to educate the majority. 
 
 d. Inclusive and diverse
->i. The Boston DAO is holistically meritocratic — understanding that every decision is not black and white, but also pushing to innovate and govern in a truly digital world.
+>i. We cannot possibly help design a better, more just society if our members do not reflect the diversity of ideas, identities, and experiences that make up the society we hope to improve.  If our membership and leadership is homogenous, we will have blind spots that will cause us to fail to meet our goals and fail to hold true to the rest of our values.  The tech and crypto spaces are notoriously homogenous - if we seek to build an organization that is reflective of society at large rather than just those who are already present in the web3 space, then we must consciously and actively work to bring in, elevate, and support diverse voices in our community.  We will back up this goal with concrete commitments and transparent tracking of our progress towards those commitments - rhetoric without change is not enough.
+
+
 ## III. Our Focus
 
 All great organizations effectively leverage their values into meaningful actions. As an   organization, we initially seek to impact the world in three areas: 
