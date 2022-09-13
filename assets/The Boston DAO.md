@@ -35,8 +35,8 @@ a. By the community, for the community
 b. Innovative, positive, and exceptional
 >i. Do things that are new, positive-sum, and disruptive so that people who learn about us can leverage and improve our framework — this is how we grow. We stand for Boston and Boston stands for trailblazing, pioneering revolutionists. This Manifesto is no exception; it should evolve with the DAO.
 
-c. Open, transparent, and adaptable
->i. We believe that the future of governance involves operating publicly and deliberately. Rather than assuming an uneducated majority, we seek to educate the majority. 
+c. Open, transparent, and accountable
+>i. We believe that the future of governance involves operating publicly, deliberately, and in good faith.  We understand that Massachusetts is a somewhat antagonistic climate towards web3 (see: Senator Warren's comments on crypto). If we want to have influence in Boston we will need to convince the skeptics that there's more to web3 than scams, ponzi schemes, and toxic defi bros. One way to do this is by serving as an example of the best parts of the web3 community.  We will strive to be a model of how a well run community with integrity, values, and accountability can demonstrate the promise of web3 tech to be a force of good in the world.
 
 d. Inclusive and diverse
 >i. We cannot possibly help design a better, more just society if our members do not reflect the diversity of ideas, identities, and experiences that make up the society we hope to improve.  If our membership and leadership is homogenous, we will have blind spots that will cause us to fail to meet our goals and fail to hold true to the rest of our values.  The tech and crypto spaces are notoriously homogenous - if we seek to build an organization that is reflective of society at large rather than just those who are already present in the web3 space, then we must consciously and actively work to bring in, elevate, and support diverse voices in our community.  We will back up this goal with concrete commitments and transparent tracking of our progress towards those commitments - rhetoric without change is not enough.
